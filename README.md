@@ -1,6 +1,6 @@
 # 📚 AI Story Creator & Translator
 
-![AI Story Creator Preview](AI-Story-Creator.png)
+<img src="AI-Story-Creator.png" alt="Girl in a jacket" width="500" height="600">
 
 **AI Story Creator & Translator** is a Streamlit-based web app that allows users to generate imaginative stories using AI (GPT-2), translate them into Indian languages, and download the output as a PDF or an MP3 file with audio narration.
 
