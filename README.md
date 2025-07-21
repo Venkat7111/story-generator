@@ -71,3 +71,9 @@ if st.button("✍️ Generate Story"):
     pdf.output(pdf_buffer)
     pdf_buffer.seek(0)
     st.download_button("📄 Download PDF", pdf_buffer, file_name="story.pdf")
+
+
+
+
+
+<img src="AI-Story-Creator.png">
